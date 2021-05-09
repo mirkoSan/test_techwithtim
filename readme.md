@@ -1,3 +1,3 @@
 # HI
-This is mirkoSan learning git and
-github
+This is me, learning
+## git and github
